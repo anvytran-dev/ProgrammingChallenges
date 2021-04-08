@@ -1,4 +1,3 @@
-
 //P: There is one parameter: a string of '1' and '0'
 //R: Return the string but replace the '1' with '0' and vice versa.
 //E:'1010' => '0101'
@@ -24,4 +23,3 @@ function broken(x){
   return newBinary
  
 }
-
