@@ -16,6 +16,6 @@ I am solving problems using Javascript fundamentals.
 
 ### Lesson Learned
 
-Solving programming challenges greatly complements my reading materials while increasing my problem-solving abilities. 
+Solving programming challenges greatly complements my reading materials while increasing my problem-solving abilities. I am able to encounter new problems and think about them creatively and then how to refactor them. 
 
 ###
